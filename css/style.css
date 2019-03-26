@@ -52,21 +52,21 @@ p  {
 /*////////// Local Styles //////////*/
 
 header a {
-    color: rgb(152,173,166);
-    text-decoration: none;
+	color: rgb(152,173,166);
+	text-decoration: none;
 }
 
 header a:hover {
-    color: rgb(111,127,122);
+	color: rgb(111,127,122);
 }
 
 #featured img {
-    border: 5px rgb(152,173,166) solid;
+	border: 5px rgb(152,173,166) solid;
 }
 
 #featured a {
-    color: #1783bb;
-    text-decoration: none;
+	color: #1783bb;
+	text-decoration: none;
 }
 
 #featured a:hover {
@@ -74,23 +74,22 @@ header a:hover {
 }
 
 #press {
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 #press img {
-    border: 5px #ccc solid;
-    padding: 1px;
+	border: 5px #ccc solid;
+	padding: 1px;
 }
 
 #press img:hover {
-    border: 5px rgb(111,127,122) solid;
+	border: 5px rgb(111,127,122) solid;
 }
 
 footer {
-    text-align: right;
-    background: #fff;
+	text-align: right;
+	background: #fff;
 }
-
 
 
 
