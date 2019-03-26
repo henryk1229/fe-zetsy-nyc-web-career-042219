@@ -25,6 +25,11 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+
 #featured img {
     border: 5px rgb(152,173,166) solid;
 }
@@ -63,20 +68,13 @@ a {
     background: transparent;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
+
 
 #press img {
     border: 5px #ccc solid;
     padding: 1px;
 }
 
-header a {
-    color: rgb(152,173,166);
-    text-decoration: none;
-}
+
 
 /* Write all remaining styles here */
