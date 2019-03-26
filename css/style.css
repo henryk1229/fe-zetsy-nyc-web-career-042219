@@ -74,4 +74,9 @@ a:-webkit-any-link {
     text-decoration: underline;
 }
 
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+
 /* Write all remaining styles here */
