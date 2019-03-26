@@ -70,15 +70,21 @@ header a:hover {
     margin-bottom: 20px;
 }
 
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+
+#press img:hover {
+    
+}
+
 footer {
     text-align: right;
     background: #fff;
 }
 
-#press img {
-    border: 5px #ccc solid;
-    padding: 1px;
-}
+
 
 
 
