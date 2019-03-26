@@ -64,6 +64,8 @@ footer {
     font-size: 0.8em;
 }
 
-
+a {
+    background: transparent;
+}
 
 /* Write all remaining styles here */
