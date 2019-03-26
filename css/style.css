@@ -68,4 +68,10 @@ a {
     background: transparent;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 /* Write all remaining styles here */
